@@ -4,3 +4,5 @@ con_summary_env/
 */.ipynb_checkpoints/
 *.txt
 *.jpeg
+*pdf_conversion/
+*pdf_conversion.zip
