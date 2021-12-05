@@ -1,6 +1,7 @@
 con_summary_env/
 .idea/
 .vscode/
+.ipynb_checkpoints/
 */.ipynb_checkpoints/
 *.txt
 *.jpeg
